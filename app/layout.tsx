@@ -13,7 +13,7 @@ export const metadata = {
   title: "AI Assistant - Chatbot Moderno",
   description: "Um assistente de IA moderno e minimalista com armazenamento de conversas",
   viewport: "width=device-width, initial-scale=1",
-    generator: 'v0.dev'
+    generator: 'Rafael Lacerda'
 }
 
 export default function RootLayout({
