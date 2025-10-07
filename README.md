@@ -35,15 +35,8 @@ Você pode testar o chatbot agora mesmo acessando o link abaixo:
 Clone o repositório e inicie o projeto com os comandos abaixo:
 
 ```bash
-# Clone o repositório
 git clone https://github.com/RafaelGLacerda/chatbot.git
-
-# Acesse a pasta do projeto
 cd chatbot
-
-# Instale as dependências e faça o build
 npm install --force && npm run build
-
-# Inicie o servidor
 npm start
 
