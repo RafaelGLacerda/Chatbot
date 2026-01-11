@@ -23,20 +23,5 @@ Você pode testar o chatbot agora mesmo acessando o link abaixo:
 - API da OpenRouter
 - Render (hospedagem gratuita)
 
-## 👤 Desenvolvido por
 
-[Rafael Lacerda](https://github.com/RafaelGLacerda)  
-📍 Salvador - BA  
-📧 rafaellacerda2004@gmail.com  
-🔗 [LinkedIn](https://br.linkedin.com/in/rafael-lacerda-47513526a)
-
----
-
-Clone o repositório e inicie o projeto com os comandos abaixo:
-
-```bash
-git clone https://github.com/RafaelGLacerda/chatbot.git
-cd chatbot
-npm install --force && npm run build
-npm start
 
